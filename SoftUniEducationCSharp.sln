@@ -39,27 +39,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{70A9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{5E8D66A0-7068-468F-A088-659079EEAFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sign of Integer Numbers", "FundamentalsCSharp\Methods\Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers.csproj", "{4C1669FB-B1A0-4912-95A7-2F00A64A8285}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sign of Integer Numbers", "FundamentalsCSharp\Methods\Lab\01. Sign of Integer Numbers\01. Sign of Integer Numbers.csproj", "{4C1669FB-B1A0-4912-95A7-2F00A64A8285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Grades", "FundamentalsCSharp\Methods\Lab\02. Grades\02. Grades.csproj", "{CB2A6632-DF91-4B7D-A8E1-90BF10CB985B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Grades", "FundamentalsCSharp\Methods\Lab\02. Grades\02. Grades.csproj", "{CB2A6632-DF91-4B7D-A8E1-90BF10CB985B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Calculations", "FundamentalsCSharp\Methods\Lab\03. Calculations\03. Calculations.csproj", "{24E96AE5-5E19-4910-8A6D-121FB2B75F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Calculations", "FundamentalsCSharp\Methods\Lab\03. Calculations\03. Calculations.csproj", "{24E96AE5-5E19-4910-8A6D-121FB2B75F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Printing Triangle", "FundamentalsCSharp\Methods\Lab\04. Printing Triangle\04. Printing Triangle.csproj", "{03C5A2CA-22DE-4F79-AC42-F6DD2D1FA948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Printing Triangle", "FundamentalsCSharp\Methods\Lab\04. Printing Triangle\04. Printing Triangle.csproj", "{03C5A2CA-22DE-4F79-AC42-F6DD2D1FA948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Orders", "FundamentalsCSharp\Methods\Lab\05. Orders\05. Orders.csproj", "{E5462DF1-5266-417B-908D-D1CD0B8856E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Orders", "FundamentalsCSharp\Methods\Lab\05. Orders\05. Orders.csproj", "{E5462DF1-5266-417B-908D-D1CD0B8856E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Calculate Rectangle Area", "FundamentalsCSharp\Methods\Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area.csproj", "{35FCFD68-C72B-4E0C-8BFB-016083266C1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Calculate Rectangle Area", "FundamentalsCSharp\Methods\Lab\06. Calculate Rectangle Area\06. Calculate Rectangle Area.csproj", "{35FCFD68-C72B-4E0C-8BFB-016083266C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Repeat String", "FundamentalsCSharp\Methods\Lab\07. Repeat String\07. Repeat String.csproj", "{F9E4AC4F-475C-43DC-AF47-4DD5023A994C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Repeat String", "FundamentalsCSharp\Methods\Lab\07. Repeat String\07. Repeat String.csproj", "{F9E4AC4F-475C-43DC-AF47-4DD5023A994C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Math Power", "FundamentalsCSharp\Methods\Lab\08. Math Power\08. Math Power.csproj", "{A948B195-C30D-4DDD-84C3-415F7162E4A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Math Power", "FundamentalsCSharp\Methods\Lab\08. Math Power\08. Math Power.csproj", "{A948B195-C30D-4DDD-84C3-415F7162E4A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Greater of Two Values", "FundamentalsCSharp\Methods\Lab\09. Greater of Two Values\09. Greater of Two Values.csproj", "{F0B254BB-E9D4-43AF-AC07-B1538CD56613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Greater of Two Values", "FundamentalsCSharp\Methods\Lab\09. Greater of Two Values\09. Greater of Two Values.csproj", "{F0B254BB-E9D4-43AF-AC07-B1538CD56613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Multiply Evens by Odds", "FundamentalsCSharp\Methods\Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds.csproj", "{3A5B3733-FD0D-4A37-9543-735B036984C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Multiply Evens by Odds", "FundamentalsCSharp\Methods\Lab\10. Multiply Evens by Odds\10. Multiply Evens by Odds.csproj", "{3A5B3733-FD0D-4A37-9543-735B036984C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Math operations", "FundamentalsCSharp\Methods\Lab\11. Math operations\11. Math operations.csproj", "{E8517A78-8C0A-4888-B6AC-8ABAD398B6FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Math operations", "FundamentalsCSharp\Methods\Lab\11. Math operations\11. Math operations.csproj", "{E8517A78-8C0A-4888-B6AC-8ABAD398B6FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise", "Exercise", "{80B7AF65-708B-4102-BAB3-5E4652D13D9E}"
 EndProject
@@ -127,7 +127,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Even and Odd Subtractio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Equal Arrays", "FundamentalsCSharp\Arrays\Lab\07. Equal Arrays\07. Equal Arrays.csproj", "{03E387C5-E3E4-4F84-AE98-8E870035DBAE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Condense Array to Number08. Condense Array to Number", "FundamentalsCSharp\Arrays\Lab\08. Condense Array to Number08. Condense Array to Number\08. Condense Array to Number08. Condense Array to Number.csproj", "{179AFE4F-C783-482A-A6F4-6E3F1ED88204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Condense Array to Number", "FundamentalsCSharp\Arrays\Lab\08. Condense Array to Number08. Condense Array to Number\08. Condense Array to Number.csproj", "{179AFE4F-C783-482A-A6F4-6E3F1ED88204}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "FundamentalsCSharp\Arrays\Exercise\01. Train\01. Train.csproj", "{4AA9FE5B-28AA-446B-A82A-D5B04E886017}"
 EndProject
@@ -217,37 +217,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Even Number", "Fundamen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Holidays Between Two Dates", "FundamentalsCSharp\BasicSyntaxConditionalStatementsAndLoops\Lab\13. Holidays Between Two Dates\13. Holidays Between Two Dates.csproj", "{04C95A66-F873-4444-BA5D-F682352B79BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data Types", "FundamentalsCSharp\Methods\MoreExercises\01. Data Types\01. Data Types.csproj", "{4A2AC8C1-F212-4870-855C-FCF5BF349090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Data Types", "FundamentalsCSharp\Methods\MoreExercises\01. Data Types\01. Data Types.csproj", "{4A2AC8C1-F212-4870-855C-FCF5BF349090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Center Point", "FundamentalsCSharp\Methods\MoreExercises\02. Center Point\02. Center Point.csproj", "{197324C1-A156-4E69-B797-8FED8BABBB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Center Point", "FundamentalsCSharp\Methods\MoreExercises\02. Center Point\02. Center Point.csproj", "{197324C1-A156-4E69-B797-8FED8BABBB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longer Line", "FundamentalsCSharp\Methods\MoreExercises\03. Longer Line\03. Longer Line.csproj", "{BE97AC16-73F4-4E37-BA16-9CC1BF89A075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Longer Line", "FundamentalsCSharp\Methods\MoreExercises\03. Longer Line\03. Longer Line.csproj", "{BE97AC16-73F4-4E37-BA16-9CC1BF89A075}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tribonacci Sequence", "FundamentalsCSharp\Methods\MoreExercises\04. Tribonacci Sequence\04. Tribonacci Sequence.csproj", "{04BD5A90-93FF-451E-8AAC-5106DCB1FA25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Tribonacci Sequence", "FundamentalsCSharp\Methods\MoreExercises\04. Tribonacci Sequence\04. Tribonacci Sequence.csproj", "{04BD5A90-93FF-451E-8AAC-5106DCB1FA25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiplication Sign", "FundamentalsCSharp\Methods\MoreExercises\05. Multiplication Sign\05. Multiplication Sign.csproj", "{F22068E6-4988-4381-94E7-6DCAB3FF3B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Multiplication Sign", "FundamentalsCSharp\Methods\MoreExercises\05. Multiplication Sign\05. Multiplication Sign.csproj", "{F22068E6-4988-4381-94E7-6DCAB3FF3B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "FundamentalsCSharp\Methods\Exercise\01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{DB6FD71B-BED3-42A3-A50A-7A82DB5ED09A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Smallest of Three Numbers", "FundamentalsCSharp\Methods\Exercise\01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{DB6FD71B-BED3-42A3-A50A-7A82DB5ED09A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "FundamentalsCSharp\Methods\Exercise\02. Vowels Count\02. Vowels Count.csproj", "{1C31F7F5-F41C-4146-9F47-422C5AE1DC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vowels Count", "FundamentalsCSharp\Methods\Exercise\02. Vowels Count\02. Vowels Count.csproj", "{1C31F7F5-F41C-4146-9F47-422C5AE1DC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Characters in Range", "FundamentalsCSharp\Methods\Exercise\03. Characters in Range\03. Characters in Range.csproj", "{8519679D-DE5E-406E-9FA6-9C08E2700C4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Characters in Range", "FundamentalsCSharp\Methods\Exercise\03. Characters in Range\03. Characters in Range.csproj", "{8519679D-DE5E-406E-9FA6-9C08E2700C4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator", "FundamentalsCSharp\Methods\Exercise\04. Password Validator\04. Password Validator.csproj", "{4A5E07E7-0A87-404F-A9DF-D90DB75D5AB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Password Validator", "FundamentalsCSharp\Methods\Exercise\04. Password Validator\04. Password Validator.csproj", "{4A5E07E7-0A87-404F-A9DF-D90DB75D5AB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract", "FundamentalsCSharp\Methods\Exercise\05. Add and Subtract\05. Add and Subtract.csproj", "{44F8DFF9-B44F-4AAF-8CDC-8F34904BEABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Add and Subtract", "FundamentalsCSharp\Methods\Exercise\05. Add and Subtract\05. Add and Subtract.csproj", "{44F8DFF9-B44F-4AAF-8CDC-8F34904BEABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Middle Characters", "FundamentalsCSharp\Methods\Exercise\06. Middle Characters\06. Middle Characters.csproj", "{EAB26D01-7CA1-4ADD-B9D4-E6D830AF2658}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Middle Characters", "FundamentalsCSharp\Methods\Exercise\06. Middle Characters\06. Middle Characters.csproj", "{EAB26D01-7CA1-4ADD-B9D4-E6D830AF2658}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NxN Matrix", "FundamentalsCSharp\Methods\Exercise\07. NxN Matrix\07. NxN Matrix.csproj", "{E01B9528-81F9-4EDA-9CA6-B340F54CF882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix", "FundamentalsCSharp\Methods\Exercise\07. NxN Matrix\07. NxN Matrix.csproj", "{E01B9528-81F9-4EDA-9CA6-B340F54CF882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "FundamentalsCSharp\Methods\Exercise\08. Factorial Division\08. Factorial Division.csproj", "{BD8B3C95-6C79-4605-B74C-62BE936B3396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Factorial Division", "FundamentalsCSharp\Methods\Exercise\08. Factorial Division\08. Factorial Division.csproj", "{BD8B3C95-6C79-4605-B74C-62BE936B3396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers", "FundamentalsCSharp\Methods\Exercise\09. Palindrome Integers\09. Palindrome Integers.csproj", "{EF500C8F-C657-41E7-BE83-30438E4EC88B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Integers", "FundamentalsCSharp\Methods\Exercise\09. Palindrome Integers\09. Palindrome Integers.csproj", "{EF500C8F-C657-41E7-BE83-30438E4EC88B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "FundamentalsCSharp\Methods\Exercise\10. Top Number\10. Top Number.csproj", "{E23B6722-8683-4FD0-AE6C-24D0AAF95F49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Top Number", "FundamentalsCSharp\Methods\Exercise\10. Top Number\10. Top Number.csproj", "{E23B6722-8683-4FD0-AE6C-24D0AAF95F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array Manipulator", "FundamentalsCSharp\Methods\Exercise\11. Array Manipulator\11. Array Manipulator.csproj", "{F1D2EB80-1E19-4052-A25F-6086C10E7EED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Array Manipulator", "FundamentalsCSharp\Methods\Exercise\11. Array Manipulator\11. Array Manipulator.csproj", "{F1D2EB80-1E19-4052-A25F-6086C10E7EED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. ConvertMetersToKilometers", "FundamentalsCSharp\DataTypesAndVariables\Lab\01. ConvertMetersToKilometers\01. ConvertMetersToKilometers.csproj", "{51BA6381-C1F5-4B3A-AE4B-FA49D310887F}"
 EndProject
@@ -271,7 +271,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Refactor Volume of Pyra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Refactor Special Numbers", "FundamentalsCSharp\DataTypesAndVariables\Lab\12. Refactor Special Numbers\12. Refactor Special Numbers.csproj", "{470CEAE2-638B-4D8E-AA49-7CE7415B61B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reversed Chars", "FundamentalsCSharp\DataTypesAndVariables\Lab\06. Reversed Chars\06. Reversed Chars.csproj", "{2F2A7F50-2596-44D7-AC0B-512FB72925F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Reversed Chars", "FundamentalsCSharp\DataTypesAndVariables\Lab\06. Reversed Chars\06. Reversed Chars.csproj", "{2F2A7F50-2596-44D7-AC0B-512FB72925F4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Data Type Finder", "FundamentalsCSharp\DataTypesAndVariables\MoreExercises\01. Data Type Finder\01. Data Type Finder.csproj", "{0521E186-D12F-4C28-974F-F57C4A3E9D2F}"
 EndProject
