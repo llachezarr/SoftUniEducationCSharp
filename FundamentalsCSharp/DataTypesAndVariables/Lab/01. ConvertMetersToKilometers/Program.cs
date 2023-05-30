@@ -2,6 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int meters = int.Parse(Console.ReadLine());
+
+        decimal kilometers = meters / 1000m;
+        Console.WriteLine($"{kilometers:F2}");
     }
 }
