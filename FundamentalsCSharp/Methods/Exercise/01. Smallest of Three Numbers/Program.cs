@@ -2,6 +2,27 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+
+        int num1 = int.Parse(Console.ReadLine());
+        int num2 = int.Parse(Console.ReadLine());
+        int num3 = int.Parse(Console.ReadLine());
+
+        SmallestNum(num1, num2, num3);
+    }
+
+    public static void SmallestNum(int num1, int num2, int num3)
+    {
+        if (num1 < num2 && num1 < num3)
+        {
+            Console.WriteLine(num1);
+        }
+        else if (num2 < num1 && num2 < num3)
+        {
+            Console.WriteLine(num2);
+        }
+        else
+        {
+            Console.WriteLine(num3);
+        }
     }
 }
