@@ -1,41 +1,29 @@
-﻿using System;
-
-internal class Program
-{
-    static void Main(string[] args)
+﻿internal class Program
     {
-        int x1, y1, x2, y2;
+        static void Main(string[] args)
+        {
+            double x1 = double.Parse(Console.ReadLine());
+            double y1 = double.Parse(Console.ReadLine());
+            double x2 = double.Parse(Console.ReadLine());
+            double y2 = double.Parse(Console.ReadLine());
 
-        if (int.TryParse(Console.ReadLine(), out x1) && int.TryParse(Console.ReadLine(), out y1)
-           && int.TryParse(Console.ReadLine(), out x2) && int.TryParse(Console.ReadLine(), out y2))
-        {
-            string closestPoint = GetClosestPoint(x1, y1, x2, y2);
-            Console.WriteLine(closestPoint);
+            GetColsestPoint(x1, y1, x2, y2);
         }
-        else
+
+        private static void GetColsestPoint(double x1, double y1, double x2, double y2)
         {
-            Console.WriteLine("Invalid input");
+
+            double distance1 = Math.Max(Math.Abs(x1), Math.Abs(y1));
+            double distance2 = Math.Max(Math.Abs(x2), Math.Abs(y2));
+
+
+            if (distance1 <= distance2)
+            {
+                Console.WriteLine($"({x1}, {y1})");
+            }
+            else
+            {
+                Console.WriteLine($"({x2}, {y2})");
+            }
         }
     }
-
-    static string GetClosestPoint(int x1, int y1, int x2, int y2)
-    {
-        double distance1 = CalculateDistanceToOrigin(x1, y1);
-        double distance2 = CalculateDistanceToOrigin(x2, y2);
-
-        if (distance1 <= distance2)
-        {
-            return $"({x1}, {y1})";
-        }
-        else
-        {
-            return $"({x2}, {y2})";
-        }
-    }
-
-    static double CalculateDistanceToOrigin(int x, int y)
-    {
-        double distance = Math.Sqrt(Math.Pow(x, 2) + Math.Pow(y, 2));
-        return distance;
-    }
-}
