@@ -1,7 +1,16 @@
 ﻿internal class Program
 {
-    private static void Main(string[] args)
+    static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        double epsilon = 0.000001;
+
+        double numberA = double.Parse(Console.ReadLine());
+        double numberB = double.Parse(Console.ReadLine());
+
+        double difference = Math.Abs(numberA - numberB);
+
+        bool areEqual = difference < epsilon;
+
+        Console.WriteLine(areEqual);
     }
 }
