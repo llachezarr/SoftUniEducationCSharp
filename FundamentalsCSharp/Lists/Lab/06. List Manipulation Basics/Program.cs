@@ -1,75 +1,43 @@
-﻿/*
-4 19 2 53 6 43
-Add 3
-Remove 2
-RemoveAt 1
-Insert 8 3
-end
-
-
-23 1 456 63 32
-87 9 32
-Remove 5
-Add 1
-Insert 14 2
-RemoveAt 3
-Add 34
-end
-*/
+﻿
 using System.Windows.Markup;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        List<int> input = Console
-            .ReadLine()
-            .Split()
-            .Select(int.Parse)
-            .ToList();
-
-        string command = " ";
-
-        while (command != "end")
+        List<int> list = Console.ReadLine().Split().Select(int.Parse).ToList();
+        string command;
+        while ((command = Console.ReadLine()) != "end")
         {
-            command = Console.ReadLine();
-
-            if (command == "end")
+            string realcommand = command.Split()[0];
+            if (realcommand == "Add")
             {
-                Console.WriteLine(String.Join(" ", input));
-                break;
+                int number = int.Parse(command.Split()[1]);
+                list.Add(number);
             }
-
-            string[] commandValue = command.Split(" ");
-
-            List<int> values = new List<int>();
-
-            foreach (string valueString in commandValue)
+            else if (realcommand == "Remove")
             {
-                int value;
-
-                if (int.TryParse(valueString, out value))
+                int number = int.Parse((command.Split()[1]));
+                list.Remove(number);
+            }
+            else if (realcommand == "RemoveAt")
+            {
+                int index = int.Parse((command.Split()[1]));
+                for (int i = 0; i < list.Count; i++)
                 {
-                    values.Add(value);
+                    if (i == index)
+                    {
+                        list.RemoveAt(i);
+                    }
                 }
             }
-
-            if (command.Contains("Add"))
+            else if (realcommand == "Insert")
             {
-                input.Add(values[0]);
-            }
-            if (command.Contains("Remove"))
-            {
-                input.Remove(values[0]);
-            }
-            if (command.Contains("RemoveAt"))
-            {
-                input.RemoveAt(values[0]);
-            }
-            if (command.Contains("Insert"))
-            {
-                input.Insert(values[1], values[0]);
+                int number = int.Parse((command).Split()[1]);
+                int index = int.Parse((command).Split()[2]);
+                list.Insert(index, number);
             }
         }
+        Console.WriteLine(string.Join(" ", list));
     }
 }
