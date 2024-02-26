@@ -647,49 +647,49 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MoreExercises", "MoreExerci
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{C301AB9F-61D0-4A06-8F12-1B464CC0A7A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Messaging", "FundamentalsCSharp\Lists\MoreExercises\01. Messaging\01. Messaging.csproj", "{64BBA628-398C-4530-B992-BF6FCEBA9029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Messaging", "FundamentalsCSharp\Lists\MoreExercises\01. Messaging\01. Messaging.csproj", "{64BBA628-398C-4530-B992-BF6FCEBA9029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Car Race", "FundamentalsCSharp\Lists\MoreExercises\02. Car Race\02. Car Race.csproj", "{7B76AB31-8CF7-4A61-B5B6-F9A1B5C0BD60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Car Race", "FundamentalsCSharp\Lists\MoreExercises\02. Car Race\02. Car Race.csproj", "{7B76AB31-8CF7-4A61-B5B6-F9A1B5C0BD60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TakeSkip Rope", "FundamentalsCSharp\Lists\MoreExercises\03. TakeSkip Rope\03. TakeSkip Rope.csproj", "{7F506B64-CC4C-4E47-A042-B8596A47D469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. TakeSkip Rope", "FundamentalsCSharp\Lists\MoreExercises\03. TakeSkip Rope\03. TakeSkip Rope.csproj", "{7F506B64-CC4C-4E47-A042-B8596A47D469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Mixed up Lists", "FundamentalsCSharp\Lists\MoreExercises\04. Mixed up Lists\04. Mixed up Lists.csproj", "{66DE7AFC-6557-49C5-9643-B9C89F286D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Mixed up Lists", "FundamentalsCSharp\Lists\MoreExercises\04. Mixed up Lists\04. Mixed up Lists.csproj", "{66DE7AFC-6557-49C5-9643-B9C89F286D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Drum Set", "FundamentalsCSharp\Lists\MoreExercises\05. Drum Set\05. Drum Set.csproj", "{FC183ED2-1593-40A7-B976-1B6C646430D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Drum Set", "FundamentalsCSharp\Lists\MoreExercises\05. Drum Set\05. Drum Set.csproj", "{FC183ED2-1593-40A7-B976-1B6C646430D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Adjacent Equal Numbers", "FundamentalsCSharp\Lists\Lab\01. Sum Adjacent Equal Numbers\01. Sum Adjacent Equal Numbers.csproj", "{0EC50C9B-BE54-447E-BDD3-6DA0734FCB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sum Adjacent Equal Numbers", "FundamentalsCSharp\Lists\Lab\01. Sum Adjacent Equal Numbers\01. Sum Adjacent Equal Numbers.csproj", "{0EC50C9B-BE54-447E-BDD3-6DA0734FCB5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Gauss' Trick", "FundamentalsCSharp\Lists\Lab\02. Gauss' Trick\02. Gauss' Trick.csproj", "{DC32D463-6077-4D88-BF3F-3B57C86632D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Gauss' Trick", "FundamentalsCSharp\Lists\Lab\02. Gauss' Trick\02. Gauss' Trick.csproj", "{DC32D463-6077-4D88-BF3F-3B57C86632D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Merging Lists", "FundamentalsCSharp\Lists\Lab\03. Merging Lists\03. Merging Lists.csproj", "{E9E92409-08B3-4656-ACCB-4273460C6BAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Merging Lists", "FundamentalsCSharp\Lists\Lab\03. Merging Lists\03. Merging Lists.csproj", "{E9E92409-08B3-4656-ACCB-4273460C6BAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List of Products", "FundamentalsCSharp\Lists\Lab\04. List of Products\04. List of Products.csproj", "{7EC37625-C12F-4F59-8DF2-3FE88CCC37EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List of Products", "FundamentalsCSharp\Lists\Lab\04. List of Products\04. List of Products.csproj", "{7EC37625-C12F-4F59-8DF2-3FE88CCC37EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Remove Negatives and Reverse", "FundamentalsCSharp\Lists\Lab\05. Remove Negatives and Reverse\05. Remove Negatives and Reverse.csproj", "{1540591A-C4EC-4EF4-8A84-EEA38516345E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Remove Negatives and Reverse", "FundamentalsCSharp\Lists\Lab\05. Remove Negatives and Reverse\05. Remove Negatives and Reverse.csproj", "{1540591A-C4EC-4EF4-8A84-EEA38516345E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. List Manipulation Basics", "FundamentalsCSharp\Lists\Lab\06. List Manipulation Basics\06. List Manipulation Basics.csproj", "{90EB879D-6F74-4F61-9F8D-D6D7C7087D93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. List Manipulation Basics", "FundamentalsCSharp\Lists\Lab\06. List Manipulation Basics\06. List Manipulation Basics.csproj", "{90EB879D-6F74-4F61-9F8D-D6D7C7087D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. List Manipulation Advanced", "FundamentalsCSharp\Lists\Lab\07. List Manipulation Advanced\07. List Manipulation Advanced.csproj", "{36B2482C-6B2A-40FF-B402-21E2BFC95FF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. List Manipulation Advanced", "FundamentalsCSharp\Lists\Lab\07. List Manipulation Advanced\07. List Manipulation Advanced.csproj", "{36B2482C-6B2A-40FF-B402-21E2BFC95FF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Train", "FundamentalsCSharp\Lists\Exercises\01. Train\01. Train.csproj", "{8DF82EEB-3CF8-47A3-BD39-64B0A23F198C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Train", "FundamentalsCSharp\Lists\Exercises\01. Train\01. Train.csproj", "{8DF82EEB-3CF8-47A3-BD39-64B0A23F198C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Change List", "FundamentalsCSharp\Lists\Exercises\02. Change List\02. Change List.csproj", "{2AABC04E-1790-4AC1-A388-641CB8431A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Change List", "FundamentalsCSharp\Lists\Exercises\02. Change List\02. Change List.csproj", "{2AABC04E-1790-4AC1-A388-641CB8431A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. House Party", "FundamentalsCSharp\Lists\Exercises\03. House Party\03. House Party.csproj", "{8DD88628-AC94-4AE7-9F81-2404DAD81D75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. House Party", "FundamentalsCSharp\Lists\Exercises\03. House Party\03. House Party.csproj", "{8DD88628-AC94-4AE7-9F81-2404DAD81D75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. List Operations", "FundamentalsCSharp\Lists\Exercises\04. List Operations\04. List Operations.csproj", "{73478B4B-1F9A-4324-9223-CE482BBB7BAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. List Operations", "FundamentalsCSharp\Lists\Exercises\04. List Operations\04. List Operations.csproj", "{73478B4B-1F9A-4324-9223-CE482BBB7BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bomb Numbers", "FundamentalsCSharp\Lists\Exercises\05. Bomb Numbers\05. Bomb Numbers.csproj", "{556D592C-DF95-4A54-8F24-7B0E57F98F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Bomb Numbers", "FundamentalsCSharp\Lists\Exercises\05. Bomb Numbers\05. Bomb Numbers.csproj", "{556D592C-DF95-4A54-8F24-7B0E57F98F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cards Game", "FundamentalsCSharp\Lists\Exercises\06. Cards Game\06. Cards Game.csproj", "{6FDFB996-DA55-4242-BCE0-A0878E02CCDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Cards Game", "FundamentalsCSharp\Lists\Exercises\06. Cards Game\06. Cards Game.csproj", "{6FDFB996-DA55-4242-BCE0-A0878E02CCDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Append Arrays", "FundamentalsCSharp\Lists\Exercises\07. Append Arrays\07. Append Arrays.csproj", "{2C3E24CF-FA5A-4471-B95F-FFD3C30C1837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Append Arrays", "FundamentalsCSharp\Lists\Exercises\07. Append Arrays\07. Append Arrays.csproj", "{2C3E24CF-FA5A-4471-B95F-FFD3C30C1837}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Anonymous Threat", "FundamentalsCSharp\Lists\Exercises\08. Anonymous Threat\08. Anonymous Threat.csproj", "{67D8EFCB-8CB9-4EEF-8A86-9149038D1E34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Anonymous Threat", "FundamentalsCSharp\Lists\Exercises\08. Anonymous Threat\08. Anonymous Threat.csproj", "{67D8EFCB-8CB9-4EEF-8A86-9149038D1E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Pokemon Don't Go", "FundamentalsCSharp\Lists\Exercises\09. Pokemon Don't Go\09. Pokemon Don't Go.csproj", "{AB1B8E0F-E903-422F-B776-49363FD46291}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Pokemon Don't Go", "FundamentalsCSharp\Lists\Exercises\09. Pokemon Don't Go\09. Pokemon Don't Go.csproj", "{AB1B8E0F-E903-422F-B776-49363FD46291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SoftUni Course Planning", "FundamentalsCSharp\Lists\Exercises\10. SoftUni Course Planning\10. SoftUni Course Planning.csproj", "{D464040C-0E67-411F-9E8F-176DB5CDE153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. SoftUni Course Planning", "FundamentalsCSharp\Lists\Exercises\10. SoftUni Course Planning\10. SoftUni Course Planning.csproj", "{D464040C-0E67-411F-9E8F-176DB5CDE153}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectsAndClasses", "ObjectsAndClasses", "{198AA9DB-88D8-4BFF-93AB-2C51868FCE4D}"
 EndProject
@@ -699,43 +699,59 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MoreExercises", "MoreExercises", "{F612EB74-5130-4FD7-9A97-1361232D7F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Advertisement Message", "FundamentalsCSharp\ObjectsAndClasses\Exercises\01. Advertisement Message\01. Advertisement Message.csproj", "{524FEBAA-D2E5-449A-875C-799A87E891D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Advertisement Message", "FundamentalsCSharp\ObjectsAndClasses\Exercises\01. Advertisement Message\01. Advertisement Message.csproj", "{524FEBAA-D2E5-449A-875C-799A87E891D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Articles", "FundamentalsCSharp\ObjectsAndClasses\Exercises\02. Articles\02. Articles.csproj", "{6CADCA24-99F1-41EE-9C51-49205F840A46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Articles", "FundamentalsCSharp\ObjectsAndClasses\Exercises\02. Articles\02. Articles.csproj", "{6CADCA24-99F1-41EE-9C51-49205F840A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Articles 2.0", "FundamentalsCSharp\ObjectsAndClasses\Exercises\03. Articles 2.0\03. Articles 2.0.csproj", "{ECCD34D8-45BD-4E6C-A0C2-C78F8F9D0860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Articles 2.0", "FundamentalsCSharp\ObjectsAndClasses\Exercises\03. Articles 2.0\03. Articles 2.0.csproj", "{ECCD34D8-45BD-4E6C-A0C2-C78F8F9D0860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students", "FundamentalsCSharp\ObjectsAndClasses\Exercises\04. Students\04. Students.csproj", "{83443698-354E-49A7-8884-4AF61913CB11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Students", "FundamentalsCSharp\ObjectsAndClasses\Exercises\04. Students\04. Students.csproj", "{83443698-354E-49A7-8884-4AF61913CB11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Teamwork Projects", "FundamentalsCSharp\ObjectsAndClasses\Exercises\05. Teamwork Projects\05. Teamwork Projects.csproj", "{8C66BBC5-57F7-4750-ACA7-6C144C7B68FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Teamwork Projects", "FundamentalsCSharp\ObjectsAndClasses\Exercises\05. Teamwork Projects\05. Teamwork Projects.csproj", "{8C66BBC5-57F7-4750-ACA7-6C144C7B68FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vehicle Catalogue", "FundamentalsCSharp\ObjectsAndClasses\Exercises\06. Vehicle Catalogue\06. Vehicle Catalogue.csproj", "{BB6F3D0C-0936-4225-9B3C-C65A0E23D6D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Vehicle Catalogue", "FundamentalsCSharp\ObjectsAndClasses\Exercises\06. Vehicle Catalogue\06. Vehicle Catalogue.csproj", "{BB6F3D0C-0936-4225-9B3C-C65A0E23D6D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Order by Age", "FundamentalsCSharp\ObjectsAndClasses\Exercises\07. Order by Age\07. Order by Age.csproj", "{641C315C-CED8-4ED4-9377-301752BF099D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Order by Age", "FundamentalsCSharp\ObjectsAndClasses\Exercises\07. Order by Age\07. Order by Age.csproj", "{641C315C-CED8-4ED4-9377-301752BF099D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Company Roster", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\01. Company Roster\01. Company Roster.csproj", "{06E6FBAB-4615-43A7-9AE8-B6E71DAE8AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Company Roster", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\01. Company Roster\01. Company Roster.csproj", "{06E6FBAB-4615-43A7-9AE8-B6E71DAE8AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Oldest Family Member", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\02. Oldest Family Member\02. Oldest Family Member.csproj", "{428C05CD-FCA4-4C02-AA77-D496CEFFE546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Oldest Family Member", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\02. Oldest Family Member\02. Oldest Family Member.csproj", "{428C05CD-FCA4-4C02-AA77-D496CEFFE546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Speed Racing", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\03. Speed Racing\03. Speed Racing.csproj", "{22944B32-BDF1-4524-A1A3-51D09D68942A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Speed Racing", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\03. Speed Racing\03. Speed Racing.csproj", "{22944B32-BDF1-4524-A1A3-51D09D68942A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Raw Data", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\04. Raw Data\04. Raw Data.csproj", "{85F76739-A1D5-43AB-AC3C-47F937D4DCAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Raw Data", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\04. Raw Data\04. Raw Data.csproj", "{85F76739-A1D5-43AB-AC3C-47F937D4DCAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Shopping Spree", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\05. Shopping Spree\05. Shopping Spree.csproj", "{1F8C815C-112A-475C-BD19-BA1451AFFF74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Shopping Spree", "FundamentalsCSharp\ObjectsAndClasses\MoreExercises\05. Shopping Spree\05. Shopping Spree.csproj", "{1F8C815C-112A-475C-BD19-BA1451AFFF74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Randomize Words", "FundamentalsCSharp\ObjectsAndClasses\Lab\01. Randomize Words\01. Randomize Words.csproj", "{67C24B46-CC3D-4C43-A89B-49201B02C0CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Randomize Words", "FundamentalsCSharp\ObjectsAndClasses\Lab\01. Randomize Words\01. Randomize Words.csproj", "{67C24B46-CC3D-4C43-A89B-49201B02C0CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Big Factorial", "FundamentalsCSharp\ObjectsAndClasses\Lab\02. Big Factorial\02. Big Factorial.csproj", "{B0F5698C-88A8-4C16-92B9-E9F103ECA089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Big Factorial", "FundamentalsCSharp\ObjectsAndClasses\Lab\02. Big Factorial\02. Big Factorial.csproj", "{B0F5698C-88A8-4C16-92B9-E9F103ECA089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Songs", "FundamentalsCSharp\ObjectsAndClasses\Lab\03. Songs\03. Songs.csproj", "{767DE6FB-9783-4335-88A4-B91525AE7531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Songs", "FundamentalsCSharp\ObjectsAndClasses\Lab\03. Songs\03. Songs.csproj", "{767DE6FB-9783-4335-88A4-B91525AE7531}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students", "FundamentalsCSharp\ObjectsAndClasses\Lab\04. Students\04. Students.csproj", "{4BBB1B0C-635E-4E42-8CE3-2E6F10B0CF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Students", "FundamentalsCSharp\ObjectsAndClasses\Lab\04. Students\04. Students.csproj", "{4BBB1B0C-635E-4E42-8CE3-2E6F10B0CF9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Students 2.0", "FundamentalsCSharp\ObjectsAndClasses\Lab\05. Students 2.0\05. Students 2.0.csproj", "{9E4FC377-2155-456C-A1A8-44223929129E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Students 2.0", "FundamentalsCSharp\ObjectsAndClasses\Lab\05. Students 2.0\05. Students 2.0.csproj", "{9E4FC377-2155-456C-A1A8-44223929129E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Store Boxes", "FundamentalsCSharp\ObjectsAndClasses\Lab\06. Store Boxes\06. Store Boxes.csproj", "{DC9F82AE-EE63-4F7F-9D72-42C4D6092677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Store Boxes", "FundamentalsCSharp\ObjectsAndClasses\Lab\06. Store Boxes\06. Store Boxes.csproj", "{DC9F82AE-EE63-4F7F-9D72-42C4D6092677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Vehicle Catalogue", "FundamentalsCSharp\ObjectsAndClasses\Lab\07. Vehicle Catalogue\07. Vehicle Catalogue.csproj", "{F7018850-0EDC-46AB-85E0-EE6B94F3CD85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Vehicle Catalogue", "FundamentalsCSharp\ObjectsAndClasses\Lab\07. Vehicle Catalogue\07. Vehicle Catalogue.csproj", "{F7018850-0EDC-46AB-85E0-EE6B94F3CD85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MidExam", "MidExam", "{D9EB30DA-B229-4004-8859-21A5D0EAB0C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProblem", "FundamentalsCSharp\MidExam\FirstProblem\FirstProblem.csproj", "{FCA205E0-1FBF-435A-9848-70E934CBB08E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondProblem", "FundamentalsCSharp\MidExam\SecondProblem\SecondProblem.csproj", "{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdProblem", "FundamentalsCSharp\MidExam\ThirdProblem\ThirdProblem.csproj", "{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FinalExam", "FinalExam", "{88FEEFD9-C10D-4F09-B824-02D3D80115C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProblem", "FundamentalsCSharp\FinalExam\FirstProblem\FirstProblem.csproj", "{6C2ABD81-A601-4519-B48B-7AA71C8EEF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondProblem", "FundamentalsCSharp\FinalExam\SecondProblem\SecondProblem.csproj", "{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdProblem", "FundamentalsCSharp\FinalExam\ThirdProblem\ThirdProblem.csproj", "{60A8A542-4FFD-455F-89CE-2C740199212B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2007,6 +2023,30 @@ Global
 		{F7018850-0EDC-46AB-85E0-EE6B94F3CD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7018850-0EDC-46AB-85E0-EE6B94F3CD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7018850-0EDC-46AB-85E0-EE6B94F3CD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA205E0-1FBF-435A-9848-70E934CBB08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA205E0-1FBF-435A-9848-70E934CBB08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA205E0-1FBF-435A-9848-70E934CBB08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA205E0-1FBF-435A-9848-70E934CBB08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2ABD81-A601-4519-B48B-7AA71C8EEF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2ABD81-A601-4519-B48B-7AA71C8EEF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2ABD81-A601-4519-B48B-7AA71C8EEF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2ABD81-A601-4519-B48B-7AA71C8EEF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A8A542-4FFD-455F-89CE-2C740199212B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A8A542-4FFD-455F-89CE-2C740199212B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A8A542-4FFD-455F-89CE-2C740199212B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A8A542-4FFD-455F-89CE-2C740199212B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2377,6 +2417,14 @@ Global
 		{9E4FC377-2155-456C-A1A8-44223929129E} = {6AB1D78B-18F5-45E9-8DBB-B3B201AF2AAA}
 		{DC9F82AE-EE63-4F7F-9D72-42C4D6092677} = {6AB1D78B-18F5-45E9-8DBB-B3B201AF2AAA}
 		{F7018850-0EDC-46AB-85E0-EE6B94F3CD85} = {6AB1D78B-18F5-45E9-8DBB-B3B201AF2AAA}
+		{D9EB30DA-B229-4004-8859-21A5D0EAB0C3} = {0E32CC65-54E6-4E08-B434-D5E85D2021B7}
+		{FCA205E0-1FBF-435A-9848-70E934CBB08E} = {D9EB30DA-B229-4004-8859-21A5D0EAB0C3}
+		{10B0F61A-9EB3-4CE5-A191-3FAC752B5E7A} = {D9EB30DA-B229-4004-8859-21A5D0EAB0C3}
+		{ACDD6E08-B96C-4CC1-A1DC-5D1BD2834BFE} = {D9EB30DA-B229-4004-8859-21A5D0EAB0C3}
+		{88FEEFD9-C10D-4F09-B824-02D3D80115C9} = {0E32CC65-54E6-4E08-B434-D5E85D2021B7}
+		{6C2ABD81-A601-4519-B48B-7AA71C8EEF95} = {88FEEFD9-C10D-4F09-B824-02D3D80115C9}
+		{D5B57BDE-8C43-4B42-BA0D-B262DA9FE754} = {88FEEFD9-C10D-4F09-B824-02D3D80115C9}
+		{60A8A542-4FFD-455F-89CE-2C740199212B} = {88FEEFD9-C10D-4F09-B824-02D3D80115C9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D3A075EF-5EE9-4D42-88C8-AD9FA38738EF}
